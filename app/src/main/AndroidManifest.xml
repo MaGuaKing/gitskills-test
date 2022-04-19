@@ -13,6 +13,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Camera">
         <activity
+            android:name=".MainActivity2"
+            android:exported="false" />
+        <activity
             android:name=".MyActivity"
             android:exported="false" />
         <activity
