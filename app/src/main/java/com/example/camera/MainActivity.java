@@ -28,6 +28,8 @@ public class MainActivity extends AppCompatActivity {
     private static int REQUEST_IMAGE_CAPTURE1 = 1, REQUEST_IMAGE_CAPTURE2 = 2;
     private Button choose_from_album_btn;
     String currentPhotoPath;
+    //hahahahahahahha
+    //hahahahahahahaha
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
