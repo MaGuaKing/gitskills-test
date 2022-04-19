@@ -30,6 +30,8 @@ public class MainActivity extends AppCompatActivity {
     String currentPhotoPath;
     //hahahahahahahha
     //hahahahahahahaha
+    
+    //HHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHHH
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
